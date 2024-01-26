@@ -1,5 +1,3 @@
-from src.table import Table
-from src.table import Seat
 from src.openspace import OpenSpace
 import random
 import json
