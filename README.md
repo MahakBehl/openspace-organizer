@@ -1,17 +1,17 @@
-OpenSpace Organizer - Seat Allocation 
+**OpenSpace Organizer - Seat Allocation **
 
 Created on 26th Jan 2024
 
 By Mahak Behl
 
-Description
+**Description**
 
 This project randomly assigns people to a seat on a table in the openspace. Every time the project run it assign different people to the table. By default it runs for an Openspace which has 6 Tables and 4 Seats per table. But there is an option to change the setup of openspace when you execute the project.
 The project gives to details of how many seats are present in the openspace, how many people are expected to come to openspace, how many seats are left vacant.
 If the number of people expected to come to openspace is more than number of seats it also gives the feasibility to add more tables to the openspace.(As a user you can decide if you want to add a new table and provide seats to everyone or you want to have limited tables in the openspace and some people might not have a seat assigned)
 Output of Seat allotment is displayed in the output screen always. It is also possible to save the output to a text file (if you wish to).
 
-Setup
+**Setup**
 
 To access this project on your local files, you can clone it using these steps
 
@@ -21,7 +21,7 @@ This will clone the repositoty into your local folder
 Run main.py in visual studio
 
 
-Behaviour Driven Development
+**Behaviour Driven Development**
 
 Openspace Specifications :
     Openspace Default Size: 
@@ -29,7 +29,7 @@ Openspace Specifications :
             Seats per Table = 4
     NOTE : Default value can be changed in config.json
 
-    Input : Y/y if you want to change the specification(Tables or seats) of the Opensapce. N/n if you want to go by default.
+    Input is  Y/y if you want to change the specification(Tables or seats) of the Opensapce. N/n if you want to go by default.
 
 
 Names of People expected in the opensapce:
@@ -43,9 +43,9 @@ Output:
 
 
 
-Technologies Used:
+**Technologies Used:**
 Python
 Git
 
-Contact Details
+**Contact Details**
 mahakbehl@gmail.com
