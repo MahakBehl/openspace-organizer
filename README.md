@@ -16,7 +16,7 @@ Output of Seat allotment is displayed in the output screen always. It is also po
 To access this project on your local files, you can clone it using these steps
 
 Open your terminal
-Use this command to clone $ git clone https://github.com/MahakBehl/openspace-organizer/
+Use this command to clone $ git clone https://github.com/MahakBehl/openspace-organizer/tree/master
 This will clone the repositoty into your local folder
 Run main.py in visual studio
 
